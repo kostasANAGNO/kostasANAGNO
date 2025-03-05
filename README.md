@@ -1,7 +1,7 @@
 # Hi there, I'm Konstantinos Anagnostou 👋
 
 ## 🚀 About Me
-I'm a passionate developer with a keen interest in **web development**, **data analysis**, and **automation**. I love exploring new technologies and building solutions that solve real-world problems.  
+I'm a passionate developer with a sharp interest in **web development**, **data analysis**, and **automation**. I love exploring new technologies and building solutions that solve real-world problems.  
 
 Currently, I'm working on:  
 - Building my own **eShop** using **WordPress & WooCommerce** 🛒  
